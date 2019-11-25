@@ -1,0 +1,34 @@
+{
+  "name": "@augustindumont/GusSamTruite",
+  "version": "1.0.0",
+  "description": "A personal card to present Gus as Gus",
+  "main": "index.js",
+  "bin": {
+    "GusSamTruite": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustinDumont/npx-card.git"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "Augustin Dumont (http://augustindumont.be)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustinDumont/npx-card/issues"
+  },
+  "homepage": "https://github.com/AugustinDumont/npx-card#readme",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^3.0.0"
+  }
+}
