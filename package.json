@@ -1,6 +1,6 @@
 {
   "name": "@augustindumont/gussamtruite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A personal card to present Gus as Gus",
   "main": "index.js",
   "bin": {
