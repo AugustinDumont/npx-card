@@ -2,4 +2,4 @@
 
 To display my npx-card, just type :
 
-npx GusSamTruite
+npx augustindumont/gussamtruite
